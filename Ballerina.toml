@@ -1,0 +1,7 @@
+[project]
+org-name= "carvajal"
+version= "0.1.0"
+
+[dependencies]
+
+"wso2/soap" = "0.4.1"

@@ -1,0 +1,14 @@
+org_name = "carvajal"
+version = "0.1.0"
+lockfile_version = "1.0.0"
+ballerina_version = "1.0.1"
+
+[[imports."carvajal/main:0.1.0"]]
+org_name = "carvajal"
+name = "consultas.cvj.viajes"
+version = "0.1.0"
+
+[[imports."carvajal/consultas.cvj.viajes:0.1.0"]]
+org_name = "wso2"
+name = "soap"
+version = "0.4.1"
